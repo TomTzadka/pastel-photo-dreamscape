@@ -1,4 +1,3 @@
-
 import { Card } from "@/components/ui/card";
 
 const images = [
@@ -13,6 +12,30 @@ const images = [
   {
     src: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
     title: "Foggy Summit"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1433086966358-54859d0ed716",
+    title: "Waterfall Bridge"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07",
+    title: "Orange Flowers"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    title: "Lake Reflection"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    title: "Wildlife"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1501854140801-50d01698950b",
+    title: "Mountain Range"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843",
+    title: "Forest Light"
   }
 ];
 
