@@ -4,14 +4,14 @@ import { Camera } from "lucide-react";
 
 const Contact = () => {
   return (
-    <section className="contact-section">
+    <section className="py-20 px-4 bg-accent/20">
       <div className="max-w-4xl mx-auto text-center">
-        <Camera className="mx-auto mb-6 text-white w-12 h-12" />
-        <h2 className="text-3xl font-light mb-6 text-white">Let's Work Together</h2>
-        <p className="text-white/80 mb-8">
+        <Camera className="mx-auto mb-6 text-primary w-12 h-12" />
+        <h2 className="text-3xl font-light mb-6 text-textColor">Let's Work Together</h2>
+        <p className="text-textColor/80 mb-8">
           Available for bookings and collaborations
         </p>
-        <Button className="bg-white/10 hover:bg-white/20 text-white">
+        <Button className="bg-primary hover:bg-primary-hover text-textColor">
           Contact Me
         </Button>
       </div>
